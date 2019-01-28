@@ -1,0 +1,7 @@
+name: Test
+main: me.overfriended.test.Main
+version: 1.0.0
+description: The test plugin.
+commands:
+  help:
+    description: Help command. 
